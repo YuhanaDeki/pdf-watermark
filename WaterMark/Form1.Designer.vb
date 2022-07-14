@@ -396,7 +396,6 @@ Partial Class Form1
         Me.txt_bookNumber.Name = "txt_bookNumber"
         Me.txt_bookNumber.Size = New System.Drawing.Size(171, 25)
         Me.txt_bookNumber.TabIndex = 7
-        Me.txt_bookNumber.Text = "งบประมาณ พ.ศ. 2566 เล่มที่"
         Me.txt_bookNumber.Visible = False
         '
         'Label11
