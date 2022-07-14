@@ -10,7 +10,7 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Watermark")>
 <Assembly: AssemblyDescription("เพิ่มลายน้ำใน PDF")>
-<Assembly: AssemblyCompany("พ.จ.ท.กฤษฎา จิตหาญ")>
+<Assembly: AssemblyCompany("Yuhana")>
 <Assembly: AssemblyProduct("WaterMark")>
 <Assembly: AssemblyCopyright("Copyright ©  2022")>
 <Assembly: AssemblyTrademark("")>
